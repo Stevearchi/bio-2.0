@@ -1,0 +1,53 @@
+/* CSS file for bio */
+body {
+    background-color: #efeee7;
+    font: georgia, "Times New Roman", Times, serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
+
+header {
+    background-color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    padding: 17px;
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+a {
+    color: #d21034;
+}
+.container {
+    width: 1024px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+
+#main-bio {
+    width: 70%;
+    float: left;
+}
+
+#bio-image {
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+#contact-info {
+    width: 30%;
+    float: left;
+}
+
